@@ -1,6 +1,6 @@
 pipeline{
 environment {
-registry = "bhavnabhalla/carreact"
+registry = "bhavnab90/carreact"
         registryCredentials = "dockerhub_id"
         dockerImage = ""
     }
